@@ -14,9 +14,9 @@ print  $a + $b + $c;
 // Kivonás
 
 
-
-
-
+$a = 9;
+$b = 4;
+print $a-$b;
 
 // -------
 
